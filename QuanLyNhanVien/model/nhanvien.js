@@ -39,4 +39,5 @@ function NhanVien(
         this.xepLoaiNhanVien= "Nhân viên trung bình";
       }
   }
+  
 }

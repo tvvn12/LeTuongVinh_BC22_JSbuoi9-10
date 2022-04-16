@@ -94,11 +94,3 @@ function Validation(){
 
     }
 }
-first() {
-    log();
-    second() {
-     log();
-     third() {
-     }
-    }
-   }
